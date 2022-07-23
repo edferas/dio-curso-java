@@ -52,7 +52,7 @@ public class SmartTv {
     }
 }
 
-
+// ______________________________________________
 // aprendizados:
 
 // 1 - o nome dos métodos são legíveis e bem explicitos quanto ao que ele faz
