@@ -54,6 +54,7 @@ public class SmartTv {
 
 
 // aprendizados:
+
 // 1 - o nome dos métodos são legíveis e bem explicitos quanto ao que ele faz
 // 2 - Nem todos os métodos precisam retornar algo
 // 3 - Alguns métodos terão parâmetro
